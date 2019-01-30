@@ -10,7 +10,7 @@
 		"properties": {
 			"d_shop_id": 27728,
 			"name": "Bloembinderij Iroqui",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -23,7 +23,7 @@
 		"properties": {
 			"d_shop_id": 29208,
 			"name": "La Petite Fleur",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -36,7 +36,7 @@
 		"properties": {
 			"d_shop_id": 22493,
 			"name": "Flor'Alex",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -49,7 +49,7 @@
 		"properties": {
 			"d_shop_id": 20257,
 			"name": "Bloemenhuis Lilium Hansbeke",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -62,7 +62,7 @@
 		"properties": {
 			"d_shop_id": 29280,
 			"name": "Bloemen Van den Bossche",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -75,7 +75,7 @@
 		"properties": {
 			"d_shop_id": 29381,
 			"name": "Le Jardin d'Elodie",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -88,7 +88,7 @@
 		"properties": {
 			"d_shop_id": 29349,
 			"name": "Bloemen Callas",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -101,7 +101,7 @@
 		"properties": {
 			"d_shop_id": 29007,
 			"name": "Flora Luna",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -114,7 +114,7 @@
 		"properties": {
 			"d_shop_id": 27278,
 			"name": "Maison Diederich",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -127,7 +127,7 @@
 		"properties": {
 			"d_shop_id": 21818,
 			"name": "Bloemenatelier Veerle Vanrenterghem",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -140,7 +140,7 @@
 		"properties": {
 			"d_shop_id": 25501,
 			"name": "Jardinerie des Corettes",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -153,7 +153,7 @@
 		"properties": {
 			"d_shop_id": 20581,
 			"name": "Bloemsierkunst Guylene",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -166,7 +166,7 @@
 		"properties": {
 			"d_shop_id": 22724,
 			"name": "Tuincentrum De Groene Haan",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -179,7 +179,7 @@
 		"properties": {
 			"d_shop_id": 19009,
 			"name": "Bloemen Valkenborghs",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -192,7 +192,7 @@
 		"properties": {
 			"d_shop_id": 17744,
 			"name": "Floramax",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -205,7 +205,7 @@
 		"properties": {
 			"d_shop_id": 18209,
 			"name": "The Bloomist",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -218,7 +218,7 @@
 		"properties": {
 			"d_shop_id": 27162,
 			"name": "Oxalis Bloembinderij Lennik",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -231,7 +231,7 @@
 		"properties": {
 			"d_shop_id": 25529,
 			"name": "Ieperplant",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -244,7 +244,7 @@
 		"properties": {
 			"d_shop_id": 23189,
 			"name": "De Florijn",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -257,7 +257,7 @@
 		"properties": {
 			"d_shop_id": 23203,
 			"name": "Fleurs Cathy",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -270,7 +270,7 @@
 		"properties": {
 			"d_shop_id": 23253,
 			"name": "Maison Fleurie",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -283,7 +283,7 @@
 		"properties": {
 			"d_shop_id": 25451,
 			"name": "Bloemen Tine",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -296,7 +296,7 @@
 		"properties": {
 			"d_shop_id": 26423,
 			"name": "Tuincentrum Kristof Willems",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -309,7 +309,7 @@
 		"properties": {
 			"d_shop_id": 28247,
 			"name": "FLVVR",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -322,7 +322,7 @@
 		"properties": {
 			"d_shop_id": 28239,
 			"name": "Het Witte Hert",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -335,7 +335,7 @@
 		"properties": {
 			"d_shop_id": 27359,
 			"name": "Tuincentrum De Wolf",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -348,7 +348,7 @@
 		"properties": {
 			"d_shop_id": 25099,
 			"name": "Fleurs Lelarge",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -361,7 +361,7 @@
 		"properties": {
 			"d_shop_id": 18831,
 			"name": "Urban Gardener",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -374,7 +374,7 @@
 		"properties": {
 			"d_shop_id": 19551,
 			"name": "Daniël Ost Brussels",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -387,7 +387,7 @@
 		"properties": {
 			"d_shop_id": 19552,
 			"name": "Daniël Ost Sint-Niklaas",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -400,7 +400,7 @@
 		"properties": {
 			"d_shop_id": 20852,
 			"name": "A l'ombre d'une fleur",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -413,7 +413,7 @@
 		"properties": {
 			"d_shop_id": 27531,
 			"name": "Bloemenatelier Ann Diependaele",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -426,7 +426,7 @@
 		"properties": {
 			"d_shop_id": 24772,
 			"name": "Bois et Fleurs",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -439,7 +439,7 @@
 		"properties": {
 			"d_shop_id": 24267,
 			"name": "Les Fleurs d'Holie",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -452,7 +452,7 @@
 		"properties": {
 			"d_shop_id": 28281,
 			"name": "Au Brin De Verdure",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -465,7 +465,7 @@
 		"properties": {
 			"d_shop_id": 24306,
 			"name": "The Plant Corner",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -478,7 +478,7 @@
 		"properties": {
 			"d_shop_id": 28537,
 			"name": "Une Fleur, Une autre...",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -491,7 +491,7 @@
 		"properties": {
 			"d_shop_id": 28774,
 			"name": "Tuincentrum 't Nieuw Vleteren",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -504,7 +504,7 @@
 		"properties": {
 			"d_shop_id": 25289,
 			"name": "Bloemen Giovanni Aalter",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -517,7 +517,7 @@
 		"properties": {
 			"d_shop_id": 28415,
 			"name": "De Pomander",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -530,7 +530,7 @@
 		"properties": {
 			"d_shop_id": 21014,
 			"name": "Mirte",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -543,7 +543,7 @@
 		"properties": {
 			"d_shop_id": 17369,
 			"name": "Horta Maasmechelen",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -556,7 +556,7 @@
 		"properties": {
 			"d_shop_id": 25414,
 			"name": "Il Mazzolino Di Fiori",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -569,7 +569,7 @@
 		"properties": {
 			"d_shop_id": 27720,
 			"name": "The Flower Corner",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -582,7 +582,7 @@
 		"properties": {
 			"d_shop_id": 24164,
 			"name": "Constantin Huart Flowers",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -595,7 +595,7 @@
 		"properties": {
 			"d_shop_id": 28013,
 			"name": "Beautilla",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -608,7 +608,7 @@
 		"properties": {
 			"d_shop_id": 16815,
 			"name": "Kasjpo - Bloemen & Deco",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -621,7 +621,7 @@
 		"properties": {
 			"d_shop_id": 17287,
 			"name": "David´s Hof",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -634,7 +634,7 @@
 		"properties": {
 			"d_shop_id": 23582,
 			"name": "Rik's quality plants",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -647,7 +647,7 @@
 		"properties": {
 			"d_shop_id": 22316,
 			"name": "La Guerande",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -660,7 +660,7 @@
 		"properties": {
 			"d_shop_id": 19617,
 			"name": "L'atelier en herbe",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -673,7 +673,7 @@
 		"properties": {
 			"d_shop_id": 28807,
 			"name": "Fleuranne",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -686,7 +686,7 @@
 		"properties": {
 			"d_shop_id": 26026,
 			"name": "Riguel Fleurs",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -699,7 +699,7 @@
 		"properties": {
 			"d_shop_id": 19963,
 			"name": "D'flowers",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -712,7 +712,7 @@
 		"properties": {
 			"d_shop_id": 16836,
 			"name": "Les jardins de Fred",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -725,7 +725,7 @@
 		"properties": {
 			"d_shop_id": 18738,
 			"name": "Bloemen Gerbera",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -738,7 +738,7 @@
 		"properties": {
 			"d_shop_id": 17052,
 			"name": "Kwekerij het Wilgenbroek",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -751,7 +751,7 @@
 		"properties": {
 			"d_shop_id": 22458,
 			"name": "Bloemen en planten Jorun Huybrechts",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -763,8 +763,8 @@
 		},
 		"properties": {
 			"d_shop_id": 28611,
-			"name": "florist",
-			"marker-symbol": "florist"
+			"name": "garden",
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -777,7 +777,7 @@
 		"properties": {
 			"d_shop_id": 18780,
 			"name": "Muscari Flowers",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -790,7 +790,7 @@
 		"properties": {
 			"d_shop_id": 26226,
 			"name": "Flowers & Things",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -803,7 +803,7 @@
 		"properties": {
 			"d_shop_id": 21633,
 			"name": "Cumulus",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -816,7 +816,7 @@
 		"properties": {
 			"d_shop_id": 24219,
 			"name": "La calla flore",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -829,7 +829,7 @@
 		"properties": {
 			"d_shop_id": 22767,
 			"name": "Abelenhof",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -842,7 +842,7 @@
 		"properties": {
 			"d_shop_id": 21783,
 			"name": "Florist Verdonck",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -855,7 +855,7 @@
 		"properties": {
 			"d_shop_id": 20730,
 			"name": "Art floral Cécile",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -868,7 +868,7 @@
 		"properties": {
 			"d_shop_id": 22476,
 			"name": "Gärtnerei Hermann",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -881,7 +881,7 @@
 		"properties": {
 			"d_shop_id": 28904,
 			"name": "Damman",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -894,7 +894,7 @@
 		"properties": {
 			"d_shop_id": 28916,
 			"name": "Daisy Flowers",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -907,7 +907,7 @@
 		"properties": {
 			"d_shop_id": 20233,
 			"name": "Vert Clair",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -920,7 +920,7 @@
 		"properties": {
 			"d_shop_id": 18940,
 			"name": "Descaplant",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -933,7 +933,7 @@
 		"properties": {
 			"d_shop_id": 18903,
 			"name": "Bloemen Sofie",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -946,7 +946,7 @@
 		"properties": {
 			"d_shop_id": 24159,
 			"name": "Oase bloemen",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -959,7 +959,7 @@
 		"properties": {
 			"d_shop_id": 20989,
 			"name": "Royal flora",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -972,7 +972,7 @@
 		"properties": {
 			"d_shop_id": 20810,
 			"name": "Den Bloesem",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -985,7 +985,7 @@
 		"properties": {
 			"d_shop_id": 24057,
 			"name": "Het Blomke Leuven",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -998,7 +998,7 @@
 		"properties": {
 			"d_shop_id": 19732,
 			"name": "Florist Vercamer",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1011,7 +1011,7 @@
 		"properties": {
 			"d_shop_id": 19129,
 			"name": "Tuinplanning Verplanken",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1024,7 +1024,7 @@
 		"properties": {
 			"d_shop_id": 17623,
 			"name": "Crea",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1037,7 +1037,7 @@
 		"properties": {
 			"d_shop_id": 26833,
 			"name": "Passie - Flora",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1050,7 +1050,7 @@
 		"properties": {
 			"d_shop_id": 22561,
 			"name": "Fleurs Michael",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1063,7 +1063,7 @@
 		"properties": {
 			"d_shop_id": 17617,
 			"name": "'t groen kwartier",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1076,7 +1076,7 @@
 		"properties": {
 			"d_shop_id": 17981,
 			"name": "Tuincentrum Vandenbroucke-Obyn",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1089,7 +1089,7 @@
 		"properties": {
 			"d_shop_id": 18798,
 			"name": "Rêve de Fleurs",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1102,7 +1102,7 @@
 		"properties": {
 			"d_shop_id": 18936,
 			"name": "Firenze",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1115,7 +1115,7 @@
 		"properties": {
 			"d_shop_id": 19169,
 			"name": "Bloemen- en Tuincentrum Deo Dora",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1128,7 +1128,7 @@
 		"properties": {
 			"d_shop_id": 16659,
 			"name": "Bloemenatelier Flos Romana",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1141,7 +1141,7 @@
 		"properties": {
 			"d_shop_id": 17208,
 			"name": "Area Floribus",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1154,7 +1154,7 @@
 		"properties": {
 			"d_shop_id": 17746,
 			"name": "Le Jardin Japonais",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1167,7 +1167,7 @@
 		"properties": {
 			"d_shop_id": 16819,
 			"name": "Teakpoint",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1180,7 +1180,7 @@
 		"properties": {
 			"d_shop_id": 24227,
 			"name": "Nada",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1193,7 +1193,7 @@
 		"properties": {
 			"d_shop_id": 26792,
 			"name": "Ebys",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1206,7 +1206,7 @@
 		"properties": {
 			"d_shop_id": 22023,
 			"name": "Hobbycenter Maes",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1219,7 +1219,7 @@
 		"properties": {
 			"d_shop_id": 23567,
 			"name": "'t Groenhuys",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1232,7 +1232,7 @@
 		"properties": {
 			"d_shop_id": 24735,
 			"name": "Den Uilhoek",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1245,7 +1245,7 @@
 		"properties": {
 			"d_shop_id": 23885,
 			"name": "Remans-Appermont Bloemen & Tuinaanleg",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1258,7 +1258,7 @@
 		"properties": {
 			"d_shop_id": 25436,
 			"name": "Moulin Seronvalle Hobby Garden",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1271,7 +1271,7 @@
 		"properties": {
 			"d_shop_id": 25683,
 			"name": "Hobby Lannoo",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1284,7 +1284,7 @@
 		"properties": {
 			"d_shop_id": 26850,
 			"name": "'t Vierde seizoen",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1297,7 +1297,7 @@
 		"properties": {
 			"d_shop_id": 26972,
 			"name": "Sels Flowers",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1310,7 +1310,7 @@
 		"properties": {
 			"d_shop_id": 25666,
 			"name": "Flor.A.Noush",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1323,7 +1323,7 @@
 		"properties": {
 			"d_shop_id": 27671,
 			"name": "Bloemsierkunst Ixora",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1336,7 +1336,7 @@
 		"properties": {
 			"d_shop_id": 28525,
 			"name": "Alba rosa",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1349,7 +1349,7 @@
 		"properties": {
 			"d_shop_id": 23698,
 			"name": "C'est le Bouquet",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1362,7 +1362,7 @@
 		"properties": {
 			"d_shop_id": 28710,
 			"name": "Piet Moodshop Workstore",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1375,7 +1375,7 @@
 		"properties": {
 			"d_shop_id": 22391,
 			"name": "Carpe Diem Neerpelt",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1388,7 +1388,7 @@
 		"properties": {
 			"d_shop_id": 24163,
 			"name": "'T Bloemenhof",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1401,7 +1401,7 @@
 		"properties": {
 			"d_shop_id": 25786,
 			"name": "Maison Julie ",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1414,7 +1414,7 @@
 		"properties": {
 			"d_shop_id": 21858,
 			"name": "Bloemen De Molen",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1427,7 +1427,7 @@
 		"properties": {
 			"d_shop_id": 20203,
 			"name": "Bloemen Umbra",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1440,7 +1440,7 @@
 		"properties": {
 			"d_shop_id": 19197,
 			"name": "Tuincenter Defever",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1453,7 +1453,7 @@
 		"properties": {
 			"d_shop_id": 24858,
 			"name": "Horta Diest - Verstreken",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1466,7 +1466,7 @@
 		"properties": {
 			"d_shop_id": 24333,
 			"name": "Comme une fleur",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1479,7 +1479,7 @@
 		"properties": {
 			"d_shop_id": 24676,
 			"name": "Lilas Musique",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1492,7 +1492,7 @@
 		"properties": {
 			"d_shop_id": 24467,
 			"name": "Cascalys",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1505,7 +1505,7 @@
 		"properties": {
 			"d_shop_id": 25560,
 			"name": "Tuincentrum Ertrijckx",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1518,7 +1518,7 @@
 		"properties": {
 			"d_shop_id": 25610,
 			"name": "Tulip Bloemen",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1531,7 +1531,7 @@
 		"properties": {
 			"d_shop_id": 25783,
 			"name": "Fleurs La Riviera",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1544,7 +1544,7 @@
 		"properties": {
 			"d_shop_id": 25806,
 			"name": "Le Pois de Senteur",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1557,7 +1557,7 @@
 		"properties": {
 			"d_shop_id": 26260,
 			"name": "Fleurs Nancy Orp-Le-Grand",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1570,7 +1570,7 @@
 		"properties": {
 			"d_shop_id": 26293,
 			"name": "Tuincentrum Miermans",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1583,7 +1583,7 @@
 		"properties": {
 			"d_shop_id": 26996,
 			"name": "Bloemen Timmermans - Van Tendeloo",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1596,7 +1596,7 @@
 		"properties": {
 			"d_shop_id": 28100,
 			"name": "Falenopsis Flowers & Flair Concept Store",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1609,7 +1609,7 @@
 		"properties": {
 			"d_shop_id": 27012,
 			"name": "Laurentia",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1622,7 +1622,7 @@
 		"properties": {
 			"d_shop_id": 27070,
 			"name": "De Duindistel",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1635,7 +1635,7 @@
 		"properties": {
 			"d_shop_id": 27140,
 			"name": "BBB fleurs",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1648,7 +1648,7 @@
 		"properties": {
 			"d_shop_id": 27189,
 			"name": "Fleurs Bottin Englebert",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1661,7 +1661,7 @@
 		"properties": {
 			"d_shop_id": 27200,
 			"name": "Bloemen Rosa",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1674,7 +1674,7 @@
 		"properties": {
 			"d_shop_id": 27281,
 			"name": "De Guirlande",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1687,7 +1687,7 @@
 		"properties": {
 			"d_shop_id": 27283,
 			"name": "Primavera bloemsierkunst",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1700,7 +1700,7 @@
 		"properties": {
 			"d_shop_id": 27562,
 			"name": "Ô Jardin",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1713,7 +1713,7 @@
 		"properties": {
 			"d_shop_id": 27564,
 			"name": "Herbes et pétales.",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1726,7 +1726,7 @@
 		"properties": {
 			"d_shop_id": 20367,
 			"name": "Den Bloemenhoek",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1739,7 +1739,7 @@
 		"properties": {
 			"d_shop_id": 22673,
 			"name": "Bloemen Blavier",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1752,7 +1752,7 @@
 		"properties": {
 			"d_shop_id": 19743,
 			"name": "La Belle Fleur",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1765,7 +1765,7 @@
 		"properties": {
 			"d_shop_id": 20108,
 			"name": "Boeketterie Binnenweg",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1778,7 +1778,7 @@
 		"properties": {
 			"d_shop_id": 21947,
 			"name": "Bloemencenter Verschoore",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1791,7 +1791,7 @@
 		"properties": {
 			"d_shop_id": 21991,
 			"name": "Passie Flora",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1804,7 +1804,7 @@
 		"properties": {
 			"d_shop_id": 21825,
 			"name": "Domus florum",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1817,7 +1817,7 @@
 		"properties": {
 			"d_shop_id": 22715,
 			"name": "Groendecor Zelzate",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1830,7 +1830,7 @@
 		"properties": {
 			"d_shop_id": 20365,
 			"name": "Tuin- En Plantencentrum Dadico",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1843,7 +1843,7 @@
 		"properties": {
 			"d_shop_id": 21972,
 			"name": "Boeket Bloemen & Accenten",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1856,7 +1856,7 @@
 		"properties": {
 			"d_shop_id": 22718,
 			"name": "Coin Fleuri",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1869,7 +1869,7 @@
 		"properties": {
 			"d_shop_id": 22432,
 			"name": "Bloemen Chris",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1882,7 +1882,7 @@
 		"properties": {
 			"d_shop_id": 26000,
 			"name": "Flowers and decorations vincent moens",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1895,7 +1895,7 @@
 		"properties": {
 			"d_shop_id": 20260,
 			"name": "Bloemenhuis Lilium Bloemenkraam",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1908,7 +1908,7 @@
 		"properties": {
 			"d_shop_id": 23395,
 			"name": "Vanda Flowers & Gifts",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1921,7 +1921,7 @@
 		"properties": {
 			"d_shop_id": 20239,
 			"name": "Bloemenhuis Lilium Sint Denijs Westrem",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1934,7 +1934,7 @@
 		"properties": {
 			"d_shop_id": 20617,
 			"name": "Fleurs de Liz",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1947,7 +1947,7 @@
 		"properties": {
 			"d_shop_id": 21929,
 			"name": "Natuurlijk",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1960,7 +1960,7 @@
 		"properties": {
 			"d_shop_id": 20230,
 			"name": "Bloembinderij Quercus",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1973,7 +1973,7 @@
 		"properties": {
 			"d_shop_id": 25699,
 			"name": "Mijn Boeketje",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1986,7 +1986,7 @@
 		"properties": {
 			"d_shop_id": 21218,
 			"name": "Bloem-Illusie",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -1999,7 +1999,7 @@
 		"properties": {
 			"d_shop_id": 23106,
 			"name": "Plantenkwekerij Kris de backer",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2012,7 +2012,7 @@
 		"properties": {
 			"d_shop_id": 25116,
 			"name": "Un peu... Beaucoup",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2025,7 +2025,7 @@
 		"properties": {
 			"d_shop_id": 25228,
 			"name": "HORTA Vandecaveye",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2038,7 +2038,7 @@
 		"properties": {
 			"d_shop_id": 25359,
 			"name": "Flora Creaverdi",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2051,7 +2051,7 @@
 		"properties": {
 			"d_shop_id": 25629,
 			"name": "Mimosa Wiekevorst",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2064,7 +2064,7 @@
 		"properties": {
 			"d_shop_id": 26528,
 			"name": "Drift",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2077,7 +2077,7 @@
 		"properties": {
 			"d_shop_id": 26876,
 			"name": "Bloemen Vermandere",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2090,7 +2090,7 @@
 		"properties": {
 			"d_shop_id": 26886,
 			"name": "Bloemenatelier Carien Callewaert",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2103,7 +2103,7 @@
 		"properties": {
 			"d_shop_id": 27025,
 			"name": "Bloembinderij Rosenthal",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2116,7 +2116,7 @@
 		"properties": {
 			"d_shop_id": 27277,
 			"name": "Agave",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2129,7 +2129,7 @@
 		"properties": {
 			"d_shop_id": 27287,
 			"name": "Myosotis bloemen & dromen",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2142,7 +2142,7 @@
 		"properties": {
 			"d_shop_id": 27380,
 			"name": "Elsika ‘t Ballonneke",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2155,7 +2155,7 @@
 		"properties": {
 			"d_shop_id": 22343,
 			"name": "Arti Fleur Deco",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2168,7 +2168,7 @@
 		"properties": {
 			"d_shop_id": 21505,
 			"name": "Intraverde",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2181,7 +2181,7 @@
 		"properties": {
 			"d_shop_id": 22351,
 			"name": "Amfore",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2194,7 +2194,7 @@
 		"properties": {
 			"d_shop_id": 21396,
 			"name": "Bloemenatelier D'Hondt",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2207,7 +2207,7 @@
 		"properties": {
 			"d_shop_id": 22659,
 			"name": "Elanti",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2220,7 +2220,7 @@
 		"properties": {
 			"d_shop_id": 20293,
 			"name": "De Papyrus",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2233,7 +2233,7 @@
 		"properties": {
 			"d_shop_id": 22669,
 			"name": "Bloemen Els Vuylsteke",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2246,7 +2246,7 @@
 		"properties": {
 			"d_shop_id": 19496,
 			"name": "Fito",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2259,7 +2259,7 @@
 		"properties": {
 			"d_shop_id": 20330,
 			"name": "Kris Pappaert - Bloemwerk op maat",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2272,7 +2272,7 @@
 		"properties": {
 			"d_shop_id": 20349,
 			"name": "Bloemeninbloei Ternat",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2285,7 +2285,7 @@
 		"properties": {
 			"d_shop_id": 22685,
 			"name": "Floreine",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2298,7 +2298,7 @@
 		"properties": {
 			"d_shop_id": 20363,
 			"name": "De groene oase",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2311,7 +2311,7 @@
 		"properties": {
 			"d_shop_id": 20291,
 			"name": "Bloemen Lotus",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2324,7 +2324,7 @@
 		"properties": {
 			"d_shop_id": 20368,
 			"name": "Helianthus",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2337,7 +2337,7 @@
 		"properties": {
 			"d_shop_id": 20188,
 			"name": "Creaflor wenduine",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2350,7 +2350,7 @@
 		"properties": {
 			"d_shop_id": 24161,
 			"name": "The Flowershop",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2363,7 +2363,7 @@
 		"properties": {
 			"d_shop_id": 22490,
 			"name": "Bloemen Louis",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2376,7 +2376,7 @@
 		"properties": {
 			"d_shop_id": 22763,
 			"name": "Het Bloem Gebeuren",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2389,7 +2389,7 @@
 		"properties": {
 			"d_shop_id": 22390,
 			"name": "Tuincenter claes",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2402,7 +2402,7 @@
 		"properties": {
 			"d_shop_id": 23079,
 			"name": "Au nom de la rose (Jambes)",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2415,7 +2415,7 @@
 		"properties": {
 			"d_shop_id": 26272,
 			"name": "Bloembinderij Floore",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2428,7 +2428,7 @@
 		"properties": {
 			"d_shop_id": 20999,
 			"name": "Bloemen Anja Heist",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2441,7 +2441,7 @@
 		"properties": {
 			"d_shop_id": 22194,
 			"name": "Fleurs - Fou",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2454,7 +2454,7 @@
 		"properties": {
 			"d_shop_id": 20135,
 			"name": "Histoire de Fleurs",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2467,7 +2467,7 @@
 		"properties": {
 			"d_shop_id": 20102,
 			"name": "'t Bloemblaadje",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2480,7 +2480,7 @@
 		"properties": {
 			"d_shop_id": 23851,
 			"name": "Le lys de France",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2493,7 +2493,7 @@
 		"properties": {
 			"d_shop_id": 20736,
 			"name": "Bloemen Vannerum",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2506,7 +2506,7 @@
 		"properties": {
 			"d_shop_id": 22818,
 			"name": "Mil Flores",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2519,7 +2519,7 @@
 		"properties": {
 			"d_shop_id": 25246,
 			"name": "Bloematelier annick",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2532,7 +2532,7 @@
 		"properties": {
 			"d_shop_id": 19809,
 			"name": "Hugardiflor",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2545,7 +2545,7 @@
 		"properties": {
 			"d_shop_id": 27574,
 			"name": "Petit potuz",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2558,7 +2558,7 @@
 		"properties": {
 			"d_shop_id": 27859,
 			"name": "Forêt Fleurie",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2571,7 +2571,7 @@
 		"properties": {
 			"d_shop_id": 23025,
 			"name": "Wood",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	},
 	{
@@ -2584,7 +2584,7 @@
 		"properties": {
 			"d_shop_id": 22359,
 			"name": "Crio",
-			"marker-symbol": "florist"
+			"marker-symbol": "garden"
 		}
 	}]
 }
