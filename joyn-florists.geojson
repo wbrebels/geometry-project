@@ -10,7 +10,8 @@
 		"properties": {
 			"d_shop_id": 27728,
 			"name": "Bloembinderij Iroqui",
-			"marker-symbol": "garden"
+			"marker-symbol": "garden",
+			"marker-color": "49c5b1"
 		}
 	},
 	{
